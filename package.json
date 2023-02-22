@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manjumjn/gulp-with-tailwindcss.git"
+    "url": "git+https://github.com/jcourtice/tailwind-starter.git"
   },
   "keywords": [
     "gulp",
@@ -40,10 +40,6 @@
     "tailwindcss",
     "sass"
   ],
-  "author": "Manjunath G",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/manjumjn/gulp-with-tailwindcss/issues"
-  },
-  "homepage": "https://github.com/manjumjn/gulp-with-tailwindcss#readme"
+  "author": "Based on work by Manjunath G: https://github.com/manjumjn/gulp-with-tailwindcss#readme",
+  "license": "ISC"
 }
